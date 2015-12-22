@@ -1,0 +1,14 @@
+{
+	"bootstrapped": true,
+	"http_proxy": "<your proxy-url:port>",
+	"https_proxy": "<your porxy-url:port>",
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+	],
+	"proxy_password": "<your password>",
+	"proxy_username": "<your username>"
+}
+

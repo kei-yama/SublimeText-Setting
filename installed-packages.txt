@@ -1,0 +1,33 @@
+[
+	"Package Control",
+	"All Autocomplete",
+	"Anaconda",
+	"ConvertToUTF8",
+	"Git",
+	"IMESupport",
+	"Markdown Extended",
+	"Markdown Preview",
+	"Monokai Extended",
+	"OmniMarkupPreviewer",
+	"Package Control",
+	"Pretty JSON",
+	"Pretty YAML",
+	"Python Auto-Complete",
+	"Python Flake8 Lint",
+	"SublimeCodeIntel",
+	"Sublimerge Pro",
+	"Table Editor"
+]
+
+# "for Ubuntu"
+[
+	"SublimeMozcInput"
+]
+
+
+
+
+]
+
+]
+
